@@ -1,0 +1,3 @@
+﻿  Project1.cpp
+Q:\DS\Project 1\Project1\Project1.cpp(92,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> Q:\DS\Project 1\Project1\x64\Debug\Project1.exe
