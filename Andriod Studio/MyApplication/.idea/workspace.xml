@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cdc28e1-84f5-4d1a-aea0-b31e44a9046c" name="Default Changelist" comment="" />
+    <list default="true" id="8cdc28e1-84f5-4d1a-aea0-b31e44a9046c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ICP82/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
